@@ -1,9 +1,0 @@
-langchain
-langchain-google-genai
-faiss-cpu
-PyPDF2
-python-docx
-unstructured
-tiktoken
-langchain-community
-google.generativeai
