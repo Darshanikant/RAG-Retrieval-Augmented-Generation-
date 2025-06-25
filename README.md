@@ -108,6 +108,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** model for int
             ↓
 [ Display to user ]
 ```
+![Screenshot 2025-06-12 215548](https://github.com/user-attachments/assets/9c7e9d9d-eda7-4ffa-88df-f8fc7e693a55)
 
 ---
 
